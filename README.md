@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Matías N. Bua</h1>
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+<h3 align="center">Un apasionado desarrollador frontend de España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasnbua&label=Profile%20views&color=0e75b6&style=flat" alt="matiasnbua" /> </p>
 
